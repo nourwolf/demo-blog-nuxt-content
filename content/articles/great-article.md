@@ -1,10 +1,10 @@
 ---
-title: Great Article
+title: Great Article - Updated
 description: I am a description of a great article
 img: https://images.unsplash.com/photo-1588514727390-91fd5ebaef81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=639&q=80
 alt: article 7
 author: 
-  name: Maria
+  name: Nour
   bio: All about Maria and where she works and what she does
   img: https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80
 ---
@@ -15,3 +15,14 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 Sedet dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+## Here is an addition
+
+<div>
+  HTML is allowed? OMG
+</div>
+
+
+## فينا نكتب عربي كمان؟
+
+لنشوف كيف بيطلع
